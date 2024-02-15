@@ -1,11 +1,10 @@
 # WordCloud-using-Harry-Potter-Book
 
-Este repositório contém um projeto que cria uma nuvem de palavras a partir do livro Harry Potter and the Sorcerers Stone.pdf.
+Este repositório contém um projeto que cria uma nuvem de palavras a partir do livro Harry Potter e a pedra filosofal.
 
 ## Visão Geral
 
-Este projeto utiliza os textos do livro de Harry Potter para gerar uma nuvem de palavras, onde as palavras mais frequentes nos livros são exibidas em tamanhos maiores.
-A nuvem de palavras oferece uma representação visual das palavras mais Citadas nos livros.
+Este projeto utiliza os textos do livro de Harry Potter para gerar uma nuvem de palavras, onde as mais frequentes são exibidas em tamanhos maiores.
 
 ## Habilidades
 - análise exploratória de dados textuais
@@ -14,5 +13,5 @@ A nuvem de palavras oferece uma representação visual das palavras mais Citadas
 
 ## Requisitos
 - Python 3.x
-- Bibliotecas Python: nltk, matplotlib, wordcloud, textract, numpy, PIL
+- Bibliotecas Python: nltk, matplotlib, wordcloud, textract, numpy, PIL.
   
